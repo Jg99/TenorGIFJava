@@ -1,6 +1,6 @@
 # TenorGIFJava
 
-This is a super simple Tenor GIF wrapper for Java. 
+This is a super simple Tenor GIF wrapper for Java. It's used in my Discord Bot (https://charizardbot.com).
 
 It can do 3 main things:
 1. return the first gif urls of a result from your query
