@@ -22,7 +22,7 @@ public class Example {
         System.out.println(Tenor.returnGIF("Charizard"));
         ArrayList<String> list = Tenor.returnGIFs("Charizard", 10);
         String links = "";
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < list.size(); i++) {
             links += list.get(i) + "\n";
         }
         System.out.println(links);
